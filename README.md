@@ -1,4 +1,6 @@
-# Python-Template
+# SSD1306
+
+A simple python interface for the SSD1306 I2C OLED screen.
 
 ## Support
 
